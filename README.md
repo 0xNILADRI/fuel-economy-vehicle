@@ -1,15 +1,15 @@
 # Fuel Economy
-<hr>
+
 
 ## Data on Cars used for Testing Fuel Economy¶
-<hr>
+
 
 The test data used to determine fuel economy estimates is derived from vehicle testing done at EPA's National Vehicle and Fuel Emissions Laboratory in Ann Arbor, Michigan, and by vehicle manufacturers who submit their own test data to EPA.
 
 Each year, EPA provides fuel economy data to the Department of Energy (DOE), the Department of Transportation (DOT) and the Internal Revenue Service (IRS) so that they can administer their fuel economy-related programs.
 
 ## Overview
-<hr>
+
 
 In this scenario we will analyse how the fuel economy has made impact on vehicles after a decade. Therfor we will use the dataset for 2010 and 2020 respectively and analyse how much impact has been done. One of the major concern of recent times is pollution which contributes to environmental degradatation and vehicles adds the most of it. With the steep increase in vehicle buying we need to analyse the economy of vehicles, as the more fuel is burnt the more residue is emmisioned into the atmosphere plus the rapid decrease in non-renuable sources would put a devastation scenario to our future generations.
 
@@ -34,7 +34,7 @@ In this scenario we will analyse how the fuel economy has made impact on vehicle
 
 
 ## About the Dataset
-<hr>
+
 
 Fuel economy data are the result of vehicle testing done at the Environmental Protection Agency's National Vehicle and Fuel Emissions Laboratory in Ann Arbor, Michigan, and by vehicle manufacturers with oversight by EPA.
 
